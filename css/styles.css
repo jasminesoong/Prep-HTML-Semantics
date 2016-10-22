@@ -1,0 +1,149 @@
+body{
+	font-family: "Arial";
+	background-color: white;
+	font-size: 12px;
+}
+
+button{
+	background-color: #F0F8FF;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#main{
+	background-color: white;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 20px;
+}
+
+#divider{
+	background-color: lightgray;
+	background-image: url("http://image.shutterstock.com/display_pic_with_logo/441760/360370160/stock-photo-hand-drawn-block-background-with-various-squares-of-hatchwork-sketch-doodles-in-random-pattern-of-360370160.jpg");
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	margin: 5px;
+	padding: 5px;
+}
+
+#titleSection{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	line-height: 15px;
+}
+
+h1{
+	-webkit-text-stroke-width: 1px;
+   	-webkit-text-stroke-color: black;
+   	color: #F5FFFA;
+}
+
+
+#heading1{
+	background-color: white;
+	background-image: url("http://il1.picdn.net/shutterstock/videos/33174/thumb/1.jpg");
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	margin: 5px;
+	padding: 10px;
+	line-height: 5px;
+}
+
+#slayer{
+	color: white;
+	font-size: 30px;
+	-webkit-text-stroke-width: 1px;
+   	-webkit-text-stroke-color: black;
+}
+
+.image1{
+	float: left;
+}
+
+.image2{
+	float: right;
+}
+
+#section1{
+	background-color: white;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	opacity: ;
+	margin: 5px;
+	padding: 10px;
+
+}
+
+#heading2{
+	background-color: white;
+	background-image: url("http://il1.picdn.net/shutterstock/videos/33174/thumb/1.jpg");
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	margin: 5px;
+	padding: 10px;
+	line-height: 5px;
+}
+
+.insideTitle{
+	color: white;
+	font-size: 30px;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#section2{
+	background-color: white;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	margin: 5px;
+	padding: 10px;
+
+}
+
+#results{
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+th{
+	background-color: #DCDCDC;
+	color: white;
+	padding: 5px;
+}
+
+td{
+	padding: 5px;
+}
+
+#firstName{
+	width: 100%;
+}
+
+#message{
+	width: 100%;
+	border-color: lightgray;
+}
+
+#fromHawaii{
+	border: none;
+}
+
+#copyright{
+	text-align: center;
+}
